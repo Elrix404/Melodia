@@ -1,7 +1,7 @@
 # 🔒 Melodia Bot - Privacy Policy
 
 * **Effective Date:** August 2, 2025  
-* **Author:** Sumit  
+* **Author:** Sumit/Elrix  
 * **Bot Name:** Melodia  
 * **Bot Type:** Discord Music Bot
 
