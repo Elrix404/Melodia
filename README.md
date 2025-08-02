@@ -25,6 +25,6 @@ By using this bot, you agree to the following:
 
 ### 🔗 Invite Melodia
 
-> [Click here to invite Melodia to your server](https://discord.com/oauth2/authorize?client_id=1401188010992861184)
+> [Click here to invite Melodia to your server](https://discord.com/oauth2/authorize?client_id=1401232048445984900)
 
 ---
