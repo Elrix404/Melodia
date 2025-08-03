@@ -6,8 +6,8 @@ Melodia is a powerful and aesthetic Discord music bot designed to deliver high-q
 
 By using this bot, you agree to the following:
 
-- [Terms of Service](https://elrix404.github.io/Melodia/tos.md)
-- [Privacy Policy](https://elrix404.github.io/Melodia/privacy.md)
+- [Terms of Service](https://github.com/Elrix404/Melodia/blob/main/tos.md)
+- [Privacy Policy](https://github.com/Elrix404/Melodia/blob/main/privacy.md)
 
 ---
 
